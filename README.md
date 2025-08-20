@@ -1,0 +1,2 @@
+# AI-Powered-Predictive-Maintenance-with-NASA-Bearing-Sensor-Data
+This project focuses on detecting faults in rolling element bearings using the NASA IMS dataset. Vibration signals were preprocessed and statistical as well as frequency-domain features were extracted. Machine learning models such as Random Forest and XGBoost were trained, with XGBoost + FFT + SMOTE achieving the best performance (≈90% accuracy).
